@@ -7,4 +7,3 @@ Very Simple !
 a/A : for left movement
 d/D : for right movement
 
-https://www.youtube.com/watch?v=nFkBhUYynUw
