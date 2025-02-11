@@ -1,0 +1,3 @@
+Very Simple !
+a/A : for left movement
+d/D : for right movement
